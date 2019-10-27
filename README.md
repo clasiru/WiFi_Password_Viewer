@@ -1,4 +1,4 @@
-# WiFi-Password-Viewer
+# WiFi Password Viewer
 
 Simple bach script to view saved WiFi passwords on local windows computer
 -
