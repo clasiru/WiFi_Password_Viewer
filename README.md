@@ -8,3 +8,6 @@ If you want to modify my codes then you can use Batch file, but if you want to j
 Batch File: [WiFi_Password_Viewer.bat](WiFi_Password_Viewer.bat)
 
 Executable File: [WiFi_Password_Viewer.bat](WiFi_Password_Viewer.exe)
+
+
+My blog post about this: [WiFi Password Viewer](https://clasiru.blogspot.com/2019/11/batch-wifi-password-viewer.html)
